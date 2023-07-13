@@ -1,7 +1,6 @@
 API de Tarefas
 Listar todas as tarefas
 
-Copy code
 GET /tasks
 Retorna uma lista de todas as tarefas existentes.
 
