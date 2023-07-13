@@ -47,3 +47,15 @@ Parâmetros
 task (obrigatório): O ID ou o objeto JSON da tarefa a ser excluída.
 Respostas
 200 OK: Requisição bem-sucedida. A tarefa foi excluída com sucesso.
+
+
+
+
+
+
+
+
+
+
+LINK DO VÍDEO NO YOUTUBE:
+https://youtu.be/3p7PEwupOqg
